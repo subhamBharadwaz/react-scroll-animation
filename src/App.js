@@ -17,7 +17,7 @@ function App() {
   };
   useEffect(() => {
     requestAnimationFrame(() => skewScrolling());
-  }, []);
+  });
   useEffect(() => {
     setBodyHeight();
   }, [size.height]);
