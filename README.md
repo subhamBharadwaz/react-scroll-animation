@@ -1,4 +1,4 @@
-#URl : https://react-scrolling-animation.vercel.app/
+#URL : https://react-scrolling-animation.vercel.app/
 
 # Getting Started with Create React App
 
